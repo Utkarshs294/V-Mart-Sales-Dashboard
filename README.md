@@ -4,11 +4,11 @@ I have successfully designed my first power bi dashboard , turning raw data into
 
 Dashboard contains :-
 
-- Bar chart
-- Column chart
-- Slicer
-- Card
 - Title
+- Card
+- Slicer
+- Bar chart
+- stacked column chart
 - Donut chart
 
 Insights :-
